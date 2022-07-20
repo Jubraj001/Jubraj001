@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there May name is Jubraj and I am keen on learning new technologies and try to better my skills each day.👋
 
 
 - 🔭 I’m currently working on an Airbnb Clone
