@@ -2,7 +2,7 @@
 ### I am keen on learning new technologies and try to better my skills each day.
 
 
-- 🔭 I’m currently working on an Airbnb Clone
+- 🔭 I’m currently working on a small project
 - 🌱 I’m currently learning React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to play guitar and was a Karate Orange Belt
