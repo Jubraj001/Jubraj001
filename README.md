@@ -1,9 +1,16 @@
-### Hi there👋 My name is Jubraj Dev. 
-### I am keen on learning new technologies and try to better my skills each day.
+<!--- - 👀 I’m interested in Data Science and Machine Learning --->
+- 👋 Hi, I’m @Jubraj001
+- 📫 Reach me @ jubrajdev001@gmail.com
 
+<br><br>
+![Jubraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubraj001&hide=contribs&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubraj001&layout=compact&count_private=true&theme=tokyonight)
+<br>
+<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jubraj001&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning Server-Side Development
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jubraj001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<!---
+Jubraj001/Jubraj001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=Jubraj001&theme=monokai&count_private=true)
