@@ -1,5 +1,6 @@
-<!--- - 👀 I’m interested in Data Science and Machine Learning --->
 - 👋 Hi, I’m @Jubraj001
+- A Software Engineer by profession and a nerd by passion
+- I love movies 🎥, games 🎮, tv shows 📺, anime 🥷 and occassionally I like to code 💻 as well
 - 📫 Reach me @ jubrajdev001@gmail.com
 
 <br><br>
