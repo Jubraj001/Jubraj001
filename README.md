@@ -1,17 +1,3 @@
-- 👋 Hi, I’m @Jubraj001
-- A Software Engineer by profession and a nerd by passion
-- I love fiction in all formats(📺🎥📘🎮) and occassionally I like to code 💻 as well
-- 📫 Reach me @ jubrajdev001@gmail.com
-
-<br><br>
-![Jubraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubraj001&hide=contribs&count_private=true&theme=tokyonight)<!--(https://github.com/anuraghazra/github-readme-stats)-->  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubraj001&layout=compact&count_private=true&theme=tokyonight)
-<br>
-<br><br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jubraj001&theme=dark)](https://git.io/streak-stats)
-
-<!---
-Jubraj001/Jubraj001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=Jubraj001&theme=monokai&count_private=true)
+<p align="center" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ4eWoxdGVjeml6cjVnbWtidDhiajhtZnVoNHJ2M245c3U4MW12YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvQNnMcTsOy8RAaK4m/giphy.gif" width="100%" />
+</p>
